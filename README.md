@@ -1,6 +1,6 @@
 # TranscribeASR
 
-TranscribeASR (TASR, pronounced "Tay-ser") is a simple CLI based on ASR technology, focused on quickly and accurately converting audio files into text, helping users improve their work efficiency.
+TranscribeASR (TASR, pronounced "Tay-ser") is a simple Python Tool based on ASR technology, focused on quickly and accurately converting audio files into text, helping users improve their work efficiency.
 
 ## Installation
 
